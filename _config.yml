@@ -56,20 +56,20 @@ paginate_path: 'page:num'
 menus:
 
 
-  -
-    href: /spring-cloud.html
-    label: SCloud
-    target: _self
+  # -
+  #   href: /spring-cloud.html
+  #   label: SCloud
+  #   target: _self
 
   -
     href: /it.html
     label: 深度
     target: _self
 
-  -
-    href: /money.html
-    label: 挣钱
-    target: _self   
+  # -
+  #   href: /money.html
+  #   label: 挣钱
+  #   target: _self   
 
   -
     href: /life.html
@@ -98,10 +98,10 @@ navs:
     href: /
     label: Home
 
-  -
-    href: /cartoon.html
-    label: 漫画
-    target: _self
+  # -
+  #   href: /cartoon.html
+  #   label: 漫画
+  #   target: _self
 
   -
     href: /spring-boot.html
@@ -134,77 +134,77 @@ navs:
 
   -
     
-    href: /python.html
-    label: Python
-    subnav:
+    # href: /python.html
+    # label: Python
+    # subnav:
 
-      -
-        subHref: /python.html
-        subLabel: Python 教程
+    #   -
+    #     subHref: /python.html
+    #     subLabel: Python 教程
         
-      -
-        subHref: http://www.justdopython.com
-        subLabel: Python 技术
-        target: _blank
+    #   -
+    #     subHref: http://www.justdopython.com
+    #     subLabel: Python 技术
+    #     target: _blank
 
-  -
-    href: /archives.html
-    label: Archives
-    target: _self
+  # -
+  #   href: /archives.html
+  #   label: Archives
+  #   target: _self
 
 
 
 # labels. my blog key words
 labels:
 
-  -
-    href: /payment.html
-    label: Pay     
-    target: _self
+  # -
+  #   href: /payment.html
+  #   label: Pay     
+  #   target: _self
 
-  -
-    href: /fastdfs.html
-    label: FastDFS
-    target: _blank
+  # -
+  #   href: /fastdfs.html
+  #   label: FastDFS
+  #   target: _blank
 
-  -
-    href: /mongodb.html
-    label: MongoDB
-    target: _blank
+  # -
+  #   href: /mongodb.html
+  #   label: MongoDB
+  #   target: _blank
 
-  -
-    href: /docker.html
-    label: Docker
-    target: _blank
+  # -
+  #   href: /docker.html
+  #   label: Docker
+  #   target: _blank
 
-  -
-    href: /open-source.html
-    label: Code  
-    target: _blank
+  # -
+  #   href: /open-source.html
+  #   label: Code  
+  #   target: _blank
 
-  -
-    href: /gitchat.html
-    label: Chat
-    target: _blank
+  # -
+  #   href: /gitchat.html
+  #   label: Chat
+  #   target: _blank
 
 
 # selected articles
 classes:
 
-  -
-    href: /cartoon.html
-    name: 不会笑青年
-    describe: 内心沉稳 ，放荡不羁。
+  # -
+  #   href: /cartoon.html
+  #   name: 不会笑青年
+  #   describe: 内心沉稳 ，放荡不羁。
 
-  -
-    href: /life.html
-    name: 我的故事
-    describe: 生活就是故事，故事就是生活
+  # -
+  #   href: /life.html
+  #   name: 我的故事
+  #   describe: 生活就是故事，故事就是生活
 
-  -
-    href: /it.html
-    name: IT行业深度报道
-    describe: IT大佬，互联网知名公司的故事
+  # -
+  #   href: /it.html
+  #   name: IT行业深度报道
+  #   describe: IT大佬，互联网知名公司的故事
 
 
 
@@ -239,20 +239,20 @@ comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-disqus:
-    username: ityouknow
+# disqus:
+#     username: emperorthree
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: emperorthree
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: d1b9a0604b2ce5a5fbee
+        client_secret: 7d07cdc55aeaa51c7dca1331ed5022d65f744ca8
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: emperorthree
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: d1b9a0604b2ce5a5fbee
+    clientSecret: 7d07cdc55aeaa51c7dca1331ed5022d65f744ca8
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true

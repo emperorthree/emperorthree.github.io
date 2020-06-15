@@ -6,97 +6,85 @@
        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
 <url>
- <loc>http://www.ityouknow.com</loc>
+ <loc>http://emperorthree.github.io</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/cartoon.html</loc>
+ <loc>http://emperorthree.github.io/cartoon.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/it.html</loc>
+ <loc>http://emperorthree.github.io/it.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/zsxq.html</loc>
+ <loc>http://emperorthree.github.io/zsxq.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/life.html</loc>
+ <loc>http://emperorthree.github.io/life.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/arch.html</loc>
+ <loc>http://emperorthree.github.io/arch.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/link.html</loc>
+ <loc>http://emperorthree.github.io/link.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/about.html</loc>
+ <loc>http://emperorthree.github.io/about.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/</loc>
+ <loc>http://emperorthree.github.io/</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/</loc>
+ <loc>http://emperorthree.github.io/</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/spring-boot.html</loc>
+ <loc>http://emperorthree.github.io/spring-boot.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/spring-boot.html</loc>
+ <loc>http://emperorthree.github.io/spring-boot.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/spring-cloud.html</loc>
+ <loc>http://emperorthree.github.io/spring-cloud.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/spring-cloud.html</loc>
- <priority>0.5</priority>
- <lastmod>2019-11-03</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.justdojava.com</loc>
- <priority>0.5</priority>
- <lastmod>2019-11-03</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.ityouknow.com/java.html</loc>
+ <loc>http://emperorthree.github.io/spring-cloud.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
@@ -108,13 +96,25 @@
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python.html</loc>
+ <loc>http://emperorthree.github.io/java.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python.html</loc>
+ <loc>http://www.justdojava.com</loc>
+ <priority>0.5</priority>
+ <lastmod>2019-11-03</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://emperorthree.github.io/python.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2019-11-03</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://emperorthree.github.io/python.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
@@ -126,277 +126,277 @@
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/archives.html</loc>
+ <loc>http://emperorthree.github.io/archives.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/payment.html</loc>
+ <loc>http://emperorthree.github.io/payment.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/fastdfs.html</loc>
+ <loc>http://emperorthree.github.io/fastdfs.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/mongodb.html</loc>
+ <loc>http://emperorthree.github.io/mongodb.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/docker.html</loc>
+ <loc>http://emperorthree.github.io/docker.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/open-source.html</loc>
+ <loc>http://emperorthree.github.io/open-source.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/gitchat.html</loc>
+ <loc>http://emperorthree.github.io/gitchat.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/java/2019/10/30/about-jvm.html</loc>
+ <loc>http://emperorthree.github.io/java/2019/10/30/about-jvm.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/it/2019/10/27/qiubojun.html</loc>
+ <loc>http://emperorthree.github.io/it/2019/10/27/qiubojun.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/cartoon/2019/10/25/twome.html</loc>
+ <loc>http://emperorthree.github.io/cartoon/2019/10/25/twome.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/it/2019/10/24/interview.html</loc>
+ <loc>http://emperorthree.github.io/it/2019/10/24/interview.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/payment/2019/10/23/money-transferred.html</loc>
+ <loc>http://emperorthree.github.io/payment/2019/10/23/money-transferred.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/it/2019/10/22/zalie.html</loc>
+ <loc>http://emperorthree.github.io/it/2019/10/22/zalie.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/cartoon/2019/10/21/heihua.html</loc>
+ <loc>http://emperorthree.github.io/cartoon/2019/10/21/heihua.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python/2019/10/20/python-calendar-036.html</loc>
+ <loc>http://emperorthree.github.io/python/2019/10/20/python-calendar-036.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python/2019/10/19/python-pathlib-035.html</loc>
+ <loc>http://emperorthree.github.io/python/2019/10/19/python-pathlib-035.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python/2019/10/18/python-json&amp;pickle-034.html</loc>
+ <loc>http://emperorthree.github.io/python/2019/10/18/python-json&amp;pickle-034.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python/2019/10/15/python-enum-033.html</loc>
+ <loc>http://emperorthree.github.io/python/2019/10/15/python-enum-033.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python/2019/10/13/python-logging-032.html</loc>
+ <loc>http://emperorthree.github.io/python/2019/10/13/python-logging-032.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page2</loc>
+ <loc>http://emperorthree.github.io/page2</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page3</loc>
+ <loc>http://emperorthree.github.io/page3</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page4</loc>
+ <loc>http://emperorthree.github.io/page4</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page5</loc>
+ <loc>http://emperorthree.github.io/page5</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page6</loc>
+ <loc>http://emperorthree.github.io/page6</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page7</loc>
+ <loc>http://emperorthree.github.io/page7</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page8</loc>
+ <loc>http://emperorthree.github.io/page8</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page9</loc>
+ <loc>http://emperorthree.github.io/page9</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page10</loc>
+ <loc>http://emperorthree.github.io/page10</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page11</loc>
+ <loc>http://emperorthree.github.io/page11</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page12</loc>
+ <loc>http://emperorthree.github.io/page12</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page13</loc>
+ <loc>http://emperorthree.github.io/page13</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page14</loc>
+ <loc>http://emperorthree.github.io/page14</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page15</loc>
+ <loc>http://emperorthree.github.io/page15</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page16</loc>
+ <loc>http://emperorthree.github.io/page16</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page17</loc>
+ <loc>http://emperorthree.github.io/page17</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page18</loc>
+ <loc>http://emperorthree.github.io/page18</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page19</loc>
+ <loc>http://emperorthree.github.io/page19</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page20</loc>
+ <loc>http://emperorthree.github.io/page20</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page21</loc>
+ <loc>http://emperorthree.github.io/page21</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page22</loc>
+ <loc>http://emperorthree.github.io/page22</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page23</loc>
+ <loc>http://emperorthree.github.io/page23</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page24</loc>
+ <loc>http://emperorthree.github.io/page24</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page25</loc>
+ <loc>http://emperorthree.github.io/page25</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page26</loc>
+ <loc>http://emperorthree.github.io/page26</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page27</loc>
+ <loc>http://emperorthree.github.io/page27</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page2</loc>
+ <loc>http://emperorthree.github.io/page2</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
@@ -420,19 +420,19 @@
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/life.html</loc>
+ <loc>http://emperorthree.github.io/life.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/it.html</loc>
+ <loc>http://emperorthree.github.io/it.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/arch.html</loc>
+ <loc>http://emperorthree.github.io/arch.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
@@ -510,43 +510,43 @@
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/payment.html</loc>
+ <loc>http://emperorthree.github.io/payment.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/fastdfs.html</loc>
+ <loc>http://emperorthree.github.io/fastdfs.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/mongodb.html</loc>
+ <loc>http://emperorthree.github.io/mongodb.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/docker.html</loc>
+ <loc>http://emperorthree.github.io/docker.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/open-source.html</loc>
+ <loc>http://emperorthree.github.io/open-source.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/gitchat.html</loc>
+ <loc>http://emperorthree.github.io/gitchat.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/feed.xml</loc>
+ <loc>http://emperorthree.github.io/feed.xml</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
