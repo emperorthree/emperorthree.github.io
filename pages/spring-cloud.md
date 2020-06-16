@@ -3,7 +3,7 @@ layout: page
 title: Spring Cloud 系列文章
 titlebar: spring-cloud
 subtitle: <span class="mega-octicon octicon-cloud-upload"></span>&nbsp;&nbsp;
-     <a href ="../assets/images/xiaoxian.jpg">关注公众号：<font color="#00FF00">小咸鱼</font>，回复"springcloud"进群交流。</a>
+     <a href ="http://qc0iyzbq5.bkt.clouddn.com/xiaoxian.jpg">关注公众号：<font color="#00FF00">小咸鱼</font>，回复"springcloud"进群交流。</a>
 menu: spring-cloud
 css: ['blog-page.css']
 permalink: /spring-cloud

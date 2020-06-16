@@ -12,7 +12,7 @@ excerpt: 你确定LinkedList的插入一定比ArrayList性能好吗？
 2. Arrays.asList返回的list不支持增、删操作
 3. 原始数组的修改会影响到我们获得list
 
-![image-20200615091307702](../imgs/image-20200615091307702.png)
+![image-20200615091307702](http://qc0iyzbq5.bkt.clouddn.com/image-20200615091307702.png)
 
 * 通过Arrays.asList()生成的list类型是Arrays$ArrayList（是arrays的内部类）;其调用add、delete方法会报错UnsupportedOperationException；
 
