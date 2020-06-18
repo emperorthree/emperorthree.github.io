@@ -1,3 +1,11 @@
+---
+layout: post
+title: 数据库的事务
+category: it
+tags: [it]
+excerpt: 4大事务隔离级别以及对应出现的问题
+---
+
 # 数据库的事务
 
 * 事务隔离级别

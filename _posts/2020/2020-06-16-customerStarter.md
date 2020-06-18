@@ -1,3 +1,11 @@
+---
+layout: post
+title: 自定义springboot starter
+category: it
+tags: [it]
+excerpt: 通过自定义starter学习其原理
+---
+
 # 自定义springboot starter中发现的问题
 
 下面以空白功能starter为例

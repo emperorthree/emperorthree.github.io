@@ -1,3 +1,11 @@
+---
+layout: post
+title: MySQL中的锁
+category: it
+tags: [it]
+excerpt: 全局锁、表级锁、行级锁
+---
+
 # MySQL中的锁
 
 ## 全局锁

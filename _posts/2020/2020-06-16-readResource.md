@@ -1,3 +1,10 @@
+---
+layout: post
+title: 读取配置文件问题
+category: it
+tags: [it]
+excerpt: @value、@ConfigurationProperties
+---
 # 读取配置文件问题
 
 ## @value读取properties文件属性
