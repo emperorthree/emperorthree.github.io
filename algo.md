@@ -1,4 +1,9 @@
-leetcode练习笔记
+---
+layout: default
+---
+
+
+# leetcode练习笔记
 
 <ul>
     {% for post in site.posts %}
