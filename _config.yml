@@ -8,3 +8,15 @@ show_downloads: ture
 github:
   zip_url: http://emperorthree.github.io-main.zip
   another_url: https://github.com/emperorthree
+
+# labels. my blog key words
+labels:
+  -
+    href: /spring.md
+    label: spring
+    target: _blank
+
+  -
+    href: /algo.md
+    label: algo
+    target: _blank
