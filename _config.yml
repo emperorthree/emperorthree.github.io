@@ -1,5 +1,5 @@
 theme: jekyll-theme-modernist
-title: this's homepage title
+title: 小贤的个人博客
 description: power by github pages
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 手写Spring项目-Mine-Spring
-date: 2024年1月16
+date: 2024-01-16
 category: spring
 ---
 

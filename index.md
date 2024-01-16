@@ -2,25 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+主页也不知道写点啥，想到了再写，嘿嘿
 
-[click to blog](/_layouts/blog.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+文章列表：
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{page.category}} <h3><a href="{{ post.url }}">{{ post.title }}</a></h3> {{page.date}}
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
