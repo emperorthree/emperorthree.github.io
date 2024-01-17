@@ -12,11 +12,11 @@ github:
 # labels. my blog key words
 labels:
   -
-    href: /spring.md
+    href: /spring.html
     label: spring
     target: _blank
 
   -
-    href: /algo.md
+    href: /algo.html
     label: algo
     target: _blank
